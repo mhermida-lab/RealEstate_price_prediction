@@ -1,6 +1,19 @@
-# RealState_price_prediction
-Data analysis and ML model for housing price predictions
+# Real estate price prediction
 
-This is a anonimized Dataset for prediction of house pricing in Buenos Aires city.
+### The objective of this project is to develop a prediction model that allows predicting apartment values from data of a real estate leading company from Argentina. The data is from Buenos Aires city housing market database.
 
-All code is writen with python 3 on Jupyter Notebooks for readability.
+The project has been divided into four stages:
+
+- Data ingestion and exploration
+- Feature selection and feature engineering
+- Model selection
+- Model tuning
+
+### Each stage will be presented with a Jupyter Notebook in order to explain each step and to showcase the code needed to handle the dataset. 
+
+
+
+
+```python
+
+```
