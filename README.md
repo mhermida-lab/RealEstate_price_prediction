@@ -4,7 +4,7 @@
 
 The project has been divided into four stages:
 
-- Data ingestion and exploration
+- Exploratory Data Analysis
 - Feature selection and feature engineering
 - Model selection
 - Model tuning
