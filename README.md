@@ -8,6 +8,7 @@ The project has been divided into four stages:
 - Feature selection and feature engineering
 - Model selection
 - Model tuning
+- Deployment
 
 ### Each stage will be presented with a Jupyter Notebook in order to explain each step and to showcase the code needed to handle the dataset. 
 
